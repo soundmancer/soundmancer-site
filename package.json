@@ -1,6 +1,6 @@
 
 {
-  "name": "soundmancer-site",
+  "name": "soundmancer-premium-site",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -10,6 +10,8 @@
   "dependencies": {
     "next": "13.4.10",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "framer-motion": "^10.12.16",
+    "lucide-react": "^0.268.0"
   }
 }
